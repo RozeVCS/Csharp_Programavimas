@@ -7,6 +7,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 Kintamieji", "01 Kintami
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kintamieji", "Kintamieji\Kintamieji.csproj", "{E7B9942B-56F6-47AA-A482-B0E23B578AFA}"
 EndProject
+<<<<<<< Updated upstream
+=======
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Uzduotis1", "Uzduotis1", "{504E0F21-B903-49C1-8A94-F78277CAB1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis1", "Uzduotis1\Uzduotis1.csproj", "{74816A01-48AB-4369-A315-756438DA2BF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Isvedimas", "02 Isvedimas", "{9BD6007B-C612-4874-A236-BE17EBF54698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isvedimas", "Isvedimas\Isvedimas.csproj", "{56FA932E-BA3E-42E2-A864-06E414FEFF84}"
+EndProject
+>>>>>>> Stashed changes
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +28,29 @@ Global
 		{E7B9942B-56F6-47AA-A482-B0E23B578AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7B9942B-56F6-47AA-A482-B0E23B578AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7B9942B-56F6-47AA-A482-B0E23B578AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< Updated upstream
+=======
+		{74816A01-48AB-4369-A315-756438DA2BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74816A01-48AB-4369-A315-756438DA2BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74816A01-48AB-4369-A315-756438DA2BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74816A01-48AB-4369-A315-756438DA2BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FA932E-BA3E-42E2-A864-06E414FEFF84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FA932E-BA3E-42E2-A864-06E414FEFF84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FA932E-BA3E-42E2-A864-06E414FEFF84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FA932E-BA3E-42E2-A864-06E414FEFF84}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E7B9942B-56F6-47AA-A482-B0E23B578AFA} = {5C1D3FAD-5282-46AA-81E6-300080D34FB3}
+<<<<<<< Updated upstream
+=======
+		{504E0F21-B903-49C1-8A94-F78277CAB1A6} = {5C1D3FAD-5282-46AA-81E6-300080D34FB3}
+		{74816A01-48AB-4369-A315-756438DA2BF9} = {504E0F21-B903-49C1-8A94-F78277CAB1A6}
+		{56FA932E-BA3E-42E2-A864-06E414FEFF84} = {9BD6007B-C612-4874-A236-BE17EBF54698}
+>>>>>>> Stashed changes
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E283FD19-35AC-4DA0-AE9E-12D802D9266E}
