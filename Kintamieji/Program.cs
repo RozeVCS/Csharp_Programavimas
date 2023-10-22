@@ -36,7 +36,7 @@ namespace Kintamieji
             float skaiciusBeReiksmesTrumpmeninis; // 0
             char simbolisBeReiksmes;
             string tekstasBeReiksmes;
-
+            bool loginisBeReiksmes;
         }
     }
 }
