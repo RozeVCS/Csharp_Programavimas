@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4A94EC9C-9457-467C-A9B9-33EAEC376666}</ProjectGuid>
+    <ProjectGuid>{DA23D129-9E28-46CB-B166-1EBBC4328DC2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Namu_Darbai</RootNamespace>
-    <AssemblyName>Namu_Darbai</AssemblyName>
+    <RootNamespace>NamuDarbai22</RootNamespace>
+    <AssemblyName>NamuDarbai22</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
